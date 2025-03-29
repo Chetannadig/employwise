@@ -1,100 +1,98 @@
-🚀 Vite + React Application
-This repository contains a Vite + React project designed for high performance and fast development. Follow the steps below to get started with setting up and running the application.
+# 🚀 **Vite + React Application**
 
-📚 Table of Contents
-About the Project
+This repository contains a **Vite + React** project designed for **high performance** and **fast development**. Follow the steps below to get started with setting up and running the application.
 
-Technologies Used
+---
 
-Built With
+## 📚 **Table of Contents**
+- **About the Project**
+- **Technologies Used**
+- **Built With**
+- **Prerequisites**
+- **Installation**
+- **Running the Application**
+- **Folder Structure**
+- **Available Scripts**
+- **Contributing**
+- **License**
 
-Prerequisites
+---
 
-Installation
+## 📖 **About the Project**
+This project is built using **Vite** and **React** to create a fast and lightweight application with a modern development environment.  
+**Deployed on Netlify**: [EmployWise Project](https://employwise-project.netlify.app)
 
-Running the Application
+---
 
-Folder Structure
+## 🛠️ **Technologies Used**
+Here’s the list of technologies powering the **EmployWise** project:
 
-Available Scripts
+- ⚛️ **React** – A JavaScript library for building interactive UIs
+- 🟦 **TypeScript** – A statically typed version of JavaScript
+- 🧰 **Redux Toolkit** – State management library for managing global state
+- 🎨 **Tailwind CSS** – A utility-first CSS framework for building modern designs
+- 🔗 **Axios** – Promise-based HTTP client for making API requests
+- 🌐 **REST API** – Communicates between the frontend and backend
+- 🎨 **Lucide React Icons** – Icon library for adding beautiful icons
+- 🖥️ **VS Code** – Code editor used for developing the project
+- 💻 **Windows** – Operating system where the project was developed
 
-Contributing
+---
 
-License
+## 🛠️ **Built With**
+- **Vite** - Fast build tool optimized for modern JS frameworks
+- **React** - A JavaScript library for building user interfaces
+- **Node.js** - JavaScript runtime for the backend
+- **npm** - Node Package Manager
 
-📖 About the Project
-This project is built using Vite and React to create a fast and lightweight application with a modern development environment.
-Deployed in Netlify: https://employwise-project.netlify.app/welcome
+---
 
-
-🛠️ Technologies Used
-Here’s the list of technologies used in your EmployWise project:
-
-⚛️ React – A JavaScript library for building interactive UIs
-
-🟦 TypeScript – A statically typed version of JavaScript
-
-🧰 Redux Toolkit – State management library for managing global state
-
-🎨 Tailwind CSS – A utility-first CSS framework for building modern designs
-
-🔗 Axios – Promise-based HTTP client for making API requests
-
-🌐 REST API – Communicates between the frontend and backend
-
-🎨 Lucide React Icons – Icon library for adding beautiful icons
-
-🖥️ VS Code – Code editor used for developing the project
-
-💻 Windows – Operating system where the project was developed
-
-
-🛠️ Built With
-Vite - Fast build tool optimized for modern JS frameworks
-
-React - A JavaScript library for building user interfaces
-
-Node.js - JavaScript runtime for the backend
-
-npm - Node Package Manager
-
-
-⚙️ Prerequisites
+## ⚙️ **Prerequisites**
 Before you begin, ensure you have the following installed:
 
-Node.js: v18.x or later
+- **Node.js**: v18.x or later  
+- **npm**: v9.x or later (or use **yarn** as an alternative)
 
-npm: v9.x or later (or use yarn as an alternative)
+---
 
+## 📦 **Installation**
 
-📦 Installation
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/Chetannadig/employwise
+   ```
 
-Clone the repository:
+2. **Navigate to the project directory**:
+   ```bash
+   cd employwise
+   ```
 
-git clone https://github.com/Chetannadig/employwise
+3. **Install dependencies**:
+   ```bash
+   npm install
+   # OR
+   yarn install
+   ```
 
+---
 
-Navigate to the project directory:
-
-cd employwise
-
-
-Install dependencies:
-
-npm install
-# OR
-yarn install
-
-
-▶️ Running the Application
+## ▶️ **Running the Application**
 To run the app locally:
-# Start the development server
-npm run dev
-# OR
-yarn dev
-The application will be available at:
-http://localhost:5173
 
+1. **Start the development server**:
+   ```bash
+   npm run dev
+   # OR
+   yarn dev
+   ```
+
+The application will be available at:
+[http://localhost:5173](http://localhost:5173)
+
+---
+
+## 📦 **Folder Structure**
+```
 📦 employwise
 ├── 📂 node_modules
 ├── 📂 public
@@ -123,38 +121,51 @@ http://localhost:5173
 ├── 📄 tsconfig.node.json
 ├── 📄 vite.config.ts
 └── 📄 README.md
+```
 
+---
 
-📜 Available Scripts
-npm run dev - Run the app in development mode.
+## 📜 **Available Scripts**
+- `npm run dev` - Run the app in development mode.
+- `npm run build` - Build the app for production.
+- `npm run preview` - Preview the production build.
+- `npm run lint` - Run ESLint to check for errors.
 
-npm run build - Build the app for production.
+---
 
-npm run preview - Preview the production build.
-
-npm run lint - Run ESLint to check for errors.
-
-🤝 Contributing
+## 🤝 **Contributing**
 Contributions are welcome! Follow these steps to contribute:
 
-Fork the repository.
+1. **Fork the repository**.
 
-Create a new branch: git checkout -b feature-name.
+2. **Create a new branch**:
+   ```bash
+   git checkout -b feature-name
+   ```
 
-Make your changes.
+3. **Make your changes**.
 
-Commit your changes: git commit -m "Add feature".
+4. **Commit your changes**:
+   ```bash
+   git commit -m "Add feature"
+   ```
 
-Push to the branch: git push origin feature-name.
+5. **Push to the branch**:
+   ```bash
+   git push origin feature-name
+   ```
 
-Submit a pull request.
+6. **Submit a pull request**.
 
-📄 License
+---
+
+## 📄 **License**
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-📧 Contact
+---
+
+## 📧 **Contact**
 If you have any questions or suggestions, feel free to contact me at:
 
-GitHub: Chetannadig
-
-Email: chetan.nv108@gmail.com
+- **GitHub**: [Chetannadig](https://github.com/Chetannadig)
+- **Email**: [chetan.nv108@gmail.com](mailto:chetan.nv108@gmail.com)
