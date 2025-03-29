@@ -24,6 +24,7 @@ License
 
 📖 About the Project
 This project is built using Vite and React to create a fast and lightweight application with a modern development environment.
+Deployed in Netlify: https://employwise-project.netlify.app/welcome
 
 
 🛠️ Technologies Used
